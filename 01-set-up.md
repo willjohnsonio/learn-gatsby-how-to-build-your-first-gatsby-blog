@@ -1,4 +1,4 @@
-Gatsby has starters for different types of site you can build this stream will be focused on a blog 
+Gatsby has starters for different types of sites you can build this stream was focused on a blog 
 
 Staters work right out of the box to get you up and running quickly
 
