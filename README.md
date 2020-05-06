@@ -3,6 +3,13 @@ Notes from Laurie Barths Gatsby Livesteam [Learn Gatsby: How to Build Your First
  💻  [GitHub Repo from Stream](https://github.com/gatsby-inc/webinar-my-first-code-blog)
 
 
+
+
+## Live Demo Site
+
+[My First Code Blog](https://my-first-code-blog.netlify.app/)
+
+
 These notes will have links to resoruces to help you through the course
 
 ### Emoji Legend
