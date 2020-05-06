@@ -1,4 +1,4 @@
-# Learn Gatsby: How to Build Your First Gatsby Blog Livestream notes
+<h1 align="center">   Learn Gatsby: How to Build Your First Gatsby Blog Livestream notes</h1>
 
 This repo contains notes notes on the Learn Gatsby Livestream featuring Laurie Barth
 
