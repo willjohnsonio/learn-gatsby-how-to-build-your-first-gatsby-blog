@@ -9,8 +9,8 @@ This repo contains notes notes on the Learn Gatsby Livestream featuring Laurie B
 * 03-add-an-image.md	
 * 04-changing-styles.md	
 * 05-change-bio-image.md	
-* 06-change-blog-post-and-path.md	Create 06-change-blog-post-and-path.md	
-* 07-add-a-plugin.md	Create 07-add-a-plugin.md
+* 06-change-blog-post-and-path.md
+* 07-add-a-plugin.md
 * 08-add-an-image.md
 
 
