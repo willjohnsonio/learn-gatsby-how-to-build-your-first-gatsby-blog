@@ -14,9 +14,9 @@ This repo contains notes notes on the Learn Gatsby Livestream featuring Laurie B
 * 08-add-an-image.md
 
 
-[Link to stream](https://www.youtube.com/watch?v=xJVHWhO9bJY)
+📹  [Link to stream](https://www.youtube.com/watch?v=xJVHWhO9bJY)
 
- 💻  [GitHub Repo from Stream](https://github.com/gatsby-inc/webinar-my-first-code-blog)
+💻  [GitHub Repo from Stream](https://github.com/gatsby-inc/webinar-my-first-code-blog)
 
 
 
